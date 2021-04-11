@@ -1,27 +1,26 @@
-# Hello, I am Doggo 👋
+# Hello, I am Doggo :wave:
 
 ### About Me
 I'm a dog that likes coding. I'm currently learning web dev, and really enjoying it.
 
-### Languages / Frameworks I know
-- Javascript
-- Typescript
-- React
-- Angular
-- Vue
-- Svelte
+### Languages I Know
+- Javascript (Typescript)
 - Rust
+- Elixir
 
 ### I Enjoy...
-- Coding
+- Coding (Mostly websites)
 - Chatting on Discord
-- Learning new stuff
 
-### Extra Stuff
-I recently created a blog, called DoggoBlog where I write about (mostly) web dev.
-Here's a link: https://doggo-blog.netlify.app/
+### Projects
+[Doggoblog](https://doggo-blog.netlify.app/):
+My Blog website
 
-<!--
-**doggo-rules/doggo-rules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Markedit](https://markedit.netlify.app/):
+Simple yet powerful Markdown editor
 
-Here are some ideas to get you started:
+[Todo List App](https://vue3-todo-list.netlify.app/):
+Yet another todo list app, made with Vue 3.
+
+[Memes API](https://reddit-memes-api.herokuapp.com/):
+Dead simple random meme API
